@@ -1,0 +1,8 @@
+.btn-outline-secondary {
+    --bs-btn-hover-bg: rgba(0, 0, 0, 0.075);
+    
+}
+
+.btn-group-lg>.btn, .btn-lg {
+    --bs-btn-hover-bg: rgba(0, 0, 0, 0.075);
+}
